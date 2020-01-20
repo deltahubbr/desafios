@@ -9,10 +9,11 @@ Aqui na delta o nosso foco é inovar o mercado de saúde. Para isso, contamos co
 
 E aí? Vamos inovar?
 
-Para se tornar um ninja `fullstack` aqui na delta, basta nos impressionar com o seu trabalho.
+Para se tornar um ninja aqui na delta, basta nos impressionar com o seu trabalho.
 
 ![Simples assim (=)](https://media.giphy.com/media/gnsrxBc8QM7HW/giphy.gif)
 
 Simples assim ☺️.
 
 Na pasta `fullstack`, você encontrará os direcionamentos para o nosso desafio de `Fullstack Software Engineer`.
+Na pasta `frontend`, você encontrará os direcionamentos para o nosso desafio de `Frontend Developer`.
