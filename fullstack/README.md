@@ -43,16 +43,17 @@ Para cada resultado retornado, deve ser possível inspecionar seus detalhes.
 - Uso de pré-processadores javascript (Typescript, Babel etc.) e css(Less, Sass etc.);
 - Código que além de ser funcional tem desempenho acima da média.
 
-### Diferenciais adicionais
-- Conhecimento de AWS.
-- Conhecimento de Graphql e arquiteturas Serveless.
+### O que vai saltar nossos olhos 👀 👀 👀
+- Utilizar AWS Lambda no Backend;
+- Utilizar AWS AppSync;
+- Utilizar AWS DynamoDB ou Amazon Aurora Serverless.
 
 ### Colher de chá (=
 - Decidimos ser bonzinhos e te poupar tempo de fazer o scrapping dos dados da [OmdbAPI](http://www.omdbapi.com)
   - Na pasta `data`, há 100 registros de filmes prontos para serem utilizados.
 
 ### Como participar?
-Basta nos enviar um email (`frederico@deltahub.com.br` ou `natan@deltahub.com.br`) com o seguinte assunto `VAGA - Fullstack Software Engineer` contendo o link (de preferência aqui mesmo no github) do repository com o código da solução.
+Basta nos enviar um email (`frederico@deltahub.com.br`) com o seguinte assunto `VAGA - Fullstack Software Engineer` contendo o link (de preferência aqui mesmo no github) do repository com o código da solução.
 
 **No mais**,
 
